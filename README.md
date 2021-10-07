@@ -17,4 +17,4 @@ The GUI before uploading the image:<br>
 The GUI after uploading the image:<br>
 ![gui-2](gui-2.JPG)<br><br>
 Classification:<br>
-![gui-1](gui-1.JPG)<br><br>
+![gui-3](gui-3.JPG)<br><br>
